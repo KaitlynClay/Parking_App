@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Parking_App</string>
+    <string name="txtTitle">Meal Charges</string>
+    <string name="txtCost">Cost of meal</string>
+    <string name="spinPrompt">Select tip rate</string>
+    <string-array name="textGroup">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+    </string-array>
+    <string name="btnCalc">Calculate charges</string>
+</resources>
